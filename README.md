@@ -25,7 +25,7 @@ The English-for-kids application was created using **HTML, SASS, JS, Webpack**
 19. There is a possibillity to sort the data alphabetically and by size for numerical values. Sorting can occur in direct and reverse order.
 20. There is a "Reset" button on the statistics page. It resets statistics.
 
-**To run the application, you need to**
+**To run the application you need to**
 1. Install Node.js
 2. Clone the repository
 3. Go to folder english-for-kids
